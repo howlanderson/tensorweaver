@@ -9,12 +9,6 @@
   <em>Build your own deep learning framework from scratch</em>
 </p>
 
-<p align="center">
-  <a href="https://pypi.org/project/tensorweaver/"><img src="https://img.shields.io/pypi/v/tensorweaver.svg" alt="PyPI version"></a>
-  <a href="https://github.com/howl-anderson/tensorweaver/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/howl-anderson/tensorweaver/stargazers"><img src="https://img.shields.io/github/stars/howl-anderson/tensorweaver.svg" alt="GitHub stars"></a>
-  <a href="https://www.tensorweaver.ai"><img src="https://img.shields.io/badge/docs-tensorweaver.ai-blue" alt="Documentation"></a>
-</p>
 
 ---
 
@@ -72,8 +66,6 @@ optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
 
 # The difference? You can see EXACTLY what happens inside! 👀
 ```
-
-🚀 **[Try it live in your browser →](https://mybinder.org/v2/gh/howl-anderson/tensorweaver/HEAD?urlpath=%2Fdoc%2Ftree%2Fmilestones%2F01_linear_regression%2Fdemo.ipynb)**
 
 ## 🧠 **What You'll Learn**
 
@@ -203,17 +195,14 @@ Instead of mysterious "black box" operations, TensorWeaver shows you:
 pip install tensorweaver
 
 # Option 2: Install from source (for contributors)
-git clone https://github.com/howl-anderson/tensorweaver.git
+git clone https://github.com/howlanderson/tensorweaver.git
 cd tensorweaver
 poetry install
 ```
 
 ### **🎯 Your Learning Journey Starts Here**
 
-1. **[🧪 Try Examples](milestones/)** - Hands-on Jupyter notebooks  
-2. **[🎮 Interactive Playground](https://mybinder.org/v2/gh/howl-anderson/tensorweaver/HEAD)** - No setup required
-3. **[💬 Join Community](https://github.com/howl-anderson/tensorweaver/discussions)** - Ask questions and share projects
-4. **[📖 Read Documentation](https://tensorweaver.ai)** - Framework overview *(expanding soon)*
+**[🧪 Try Examples](milestones/)** - Explore hands-on Jupyter notebooks to learn by doing
 
 ## 🤝 **Contributing**
 
@@ -228,30 +217,10 @@ We welcome you! Please open an issue or submit a pull request - contribution gui
 
 ## 📚 **Resources**
 
-- **📖 [Documentation](https://tensorweaver.ai)** - Framework overview
-- **💬 [Discussions](https://github.com/howl-anderson/tensorweaver/discussions)** - Community Q&A
-- **🐛 [Issues](https://github.com/howl-anderson/tensorweaver/issues)** - Bug reports and feature requests
-- **📧 [Follow Updates](https://github.com/howl-anderson/tensorweaver)** - Star/watch for latest changes
-
 ## 🎓 **Educational Use**
 
 Using TensorWeaver in your course? We'd love to help!
 
-- **🎯 [Working Examples](milestones/)** - Ready-to-use Jupyter notebooks
-- **💬 [Get Support](https://github.com/howl-anderson/tensorweaver/discussions)** - Ask questions and get help
-- **📧 [Contact Us](https://github.com/howl-anderson/tensorweaver/issues)** - Let us know about your educational use case
-
-*Curriculum materials and instructor resources are in development - please reach out if you're interested!*
-
-## ⭐ **Why Stars Matter**
-
-If TensorWeaver helped you understand deep learning better, please consider starring the repository! It helps others discover this educational resource.
-
-<p align="center">
-  <a href="https://github.com/howl-anderson/tensorweaver/stargazers">
-    <img src="https://img.shields.io/github/stars/howl-anderson/tensorweaver?style=social" alt="GitHub stars">
-  </a>
-</p>
 
 ## 📄 **License**
 
@@ -263,9 +232,3 @@ TensorWeaver is MIT licensed. See [LICENSE](LICENSE) for details.
 - Thanks to the PyTorch team for the API design
 - Grateful to all contributors and the open-source community
 
----
-
-<p align="center">
-  <strong>Ready to peek behind the curtain?</strong><br>
-  <a href="https://tensorweaver.ai">🚀 Start Learning at tensorweaver.ai</a>
-</p>
