@@ -1,0 +1,9 @@
+.DS_Store
+.htmlcov
+.pytest_cache
+.ruff_cache
+.venv
+__pycache__
+out/
+dist/
+.idea/
